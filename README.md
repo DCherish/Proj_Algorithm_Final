@@ -15,7 +15,7 @@
 > > > **Crossover**  
 > > > **Mutation**  
 
-<img src="/image/d1.png" width="700px" height="250px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d1.png" width="700px" height="210px" alt="BlockDiagram"></img><br/><br/>
 <img src="/image/d2.png" width="420px" height="300px" alt="BlockDiagram"></img><br/>
 <img src="/image/d3.png" width="420px" height="300px" alt="BlockDiagram"></img><br/>
 > **KnapSack Problem DP vs GA** 서로 비교 및 분석한 결과  
@@ -24,7 +24,7 @@
 > > > 사용한 **GA**기법  
 > > > **Binary Encoding, Roulette Selection, MultiPoint Crossover, Insertion Mutation**  
 
-<img src="/image/d4.png" width="700px" height="250px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d4.png" width="700px" height="210px" alt="BlockDiagram"></img><br/><br/>
 <img src="/image/d5.png" width="420px" height="320px" alt="BlockDiagram"></img><br/>
 > **KnapSack Problem GA (RS) vs GA (TS)** 서로 비교 및 분석한 결과  
 > > **GA (RS) < GA (TS)**  
@@ -32,7 +32,7 @@
 > > > 사용한 **GA**기법  
 > > > **Binary Encoding, Roulette & Tournament Selection, MultiPoint Crossover, Insertion Mutation**  
 
-<img src="/image/d6.png" width="700px" height="250px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d6.png" width="700px" height="210px" alt="BlockDiagram"></img><br/><br/>
 <img src="/image/d7.png" width="420px" height="320px" alt="BlockDiagram"></img><br/>
 > **KnapSack Problem GA (TC) vs GA (SC)** 서로 비교 및 분석한 결과  
 > > **GA (TC) < GA (SC)**  
@@ -40,7 +40,7 @@
 > > > 사용한 **GA**기법  
 > > > **Binary Encoding, Roulette Selection, SinglePoint & MultiPoint Crossover, Insertion Mutation**  
 
-<img src="/image/d8.png" width="700px" height="250px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d8.png" width="700px" height="210px" alt="BlockDiagram"></img><br/><br/>
 <img src="/image/d9.png" width="420px" height="320px" alt="BlockDiagram"></img><br/>
 > **KnapSack Problem GA (IM) vs GA (IVM)** 서로 비교 및 분석한 결과  
 > > **GA (IM) < GA (IVM)**  
