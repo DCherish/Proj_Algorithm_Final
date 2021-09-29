@@ -7,7 +7,7 @@
 ### 사용 Tool
 - [x] Visual Studio  
 ### 프로젝트 결과 (간략)
-> **NP** 중에서도 대표 주자인 **NP-Complete**
+> **NP** 중에서도 대표 주자인 **NP-Complete**  
 > **NP-Complete** 중에서도 유명한 **0-1 KnapSack**을 다양한 방식으로 접근
 > > **GA**를 이용할 경우 다음과 같은 **기법**들을 고려하며 구현
 > > > **Encoding**  
