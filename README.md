@@ -68,4 +68,12 @@
 👉 **Insertion Mutation**이 **Inversion Mutation**보다 KnapSack Problem에 효율적임을 확인  
 
 > 사용한 **GA**기법  
-> `Binary Encoding` `Roulette Selection` `MultiPoint Crossover` `Insertion & Inversion Mutation`
+> `Binary Encoding` `Roulette Selection` `MultiPoint Crossover` `Insertion & Inversion Mutation`  
+
+---
+
+# ⚠️ License
+The theme is available as open source under the terms of the [MIT License](https://github.com/DCherish/Proj_Algorithm_Final/blob/master/LICENSE).  
+###### *When you use this project, It would appreciate it if you could press the Star button*(⭐).
+
+---
